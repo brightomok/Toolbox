@@ -8,7 +8,7 @@ Setup
 
 Showing R and github are properly configured.
 
-Rstudio Setup ![Caption for the picture.](/Users/Ryan/Desktop/setup.png)
+Rstudio Setup ![Caption for the picture.](setup.png)
 
 Github Repo <https://github.com/ryantillis/Toolbox>
 
